@@ -12,5 +12,5 @@
 
 ## Preview of Component B
 <div align="center" overflow="hidden">
-  <img src="https://iili.io/JnC51v1.png" width="auto" height="auto"/>
+  <img src="https://iili.io/JnCcXRI.png" width="auto" height="auto"/>
 </div>
