@@ -1,8 +1,16 @@
-# React + Vite
+## What is Higher-Order Component?
+>  A function that takes a component as input and returns an enhanced component as output.
+## Preview of Higher-Order Component
+<div align="center" overflow="hidden">
+  <img src="https://iili.io/JnCIgHu.png" width="auto" height="auto"/>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Preview of Component A
+<div align="center" overflow="hidden">
+  <img src="https://iili.io/JnCTbB2.png" width="auto" height="auto"/>
+</div>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Preview of Component B
+<div align="center" overflow="hidden">
+  <img src="https://iili.io/JnC51v1.png" width="auto" height="auto"/>
+</div>
